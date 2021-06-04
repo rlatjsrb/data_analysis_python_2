@@ -1,1 +1,1 @@
-# data_analysis_python_2
+# 파이썬 데이터 분석2
